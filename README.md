@@ -1,4 +1,4 @@
-## 一个不正经的小白!
+# 一个不正经的小白!
 
 ---
 ### Please have a cup of milk tea
