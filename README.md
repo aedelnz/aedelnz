@@ -5,7 +5,7 @@
 https://afdian.net/?JIXIEJIDIGUAN?tab=home
 
 
-![:name](https://count.getloli.com/get/@demo?theme=rule34)
+![aedelnz.github.io Actions](https://api.meercode.io/badge/aedelnz/aedelnz.github.io?type=ci-score&lastDay=7)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aedelnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aedelnz)](https://github.com/anuraghazra/github-readme-stats)
