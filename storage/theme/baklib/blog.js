@@ -4,4 +4,4 @@ document.write("<link rel=\"stylesheet\" href=\"\/\/jixiejidiguan.top\/stalye\/i
 document.write("<link rel=\"stylesheet\" href=\"\/\/jixiejidiguan.top\/stalye\/mdui\/css\/mdui.css\" >");
 document.write("<script src=\"\/\/jixiejidiguan.top\/stalye\/mdui\/js\/mdui.js\"><\/script>");
 document.write("<br><script src=\"\/\/jixiejidiguan.top\/stalye\/js\/zhucx.js\"><\/script>");
-document.write("<script src=\"https:\/\/code.jquery.com\/jquery-3.0.0.min.js\"><\/script>");
+
