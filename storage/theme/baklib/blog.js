@@ -3,5 +3,5 @@ document.getElementById("home").innerHTML="<div class='elec'><a href='https://ji
 document.write("<link rel=\"stylesheet\" href=\"https:\/\/cdn.jsdelivr.net\/npm\/mdui@1.0.2\/dist\/css\/mdui.min.css?v=1.0\"\/>");
 document.write("<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/mdui@1.0.2\/dist\/js\/mdui.min.js?v=1.0\"><\/script>");
 document.write("<script src=\"\/\/jixiejidiguan.top\/stalye\/mdui\/js\/mdui.js\"><\/script>");
-document.write("<br><script src=\"\/\/jixiejidiguan.top\/stalye\/js\/zhucx.js\"><\/script>");
+document.write("<script src=\"\/\/jixiejidiguan.top\/stalye\/js\/zhucx.js\"><\/script>");
 
