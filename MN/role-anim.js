@@ -121,7 +121,7 @@
     var scale = 2;
 
     function Role(config) {
-        var img = document.createElement('//jixiejidiguan.top/aedelnz/MN/img');
+        var img = document.createElement('img');
         img.src = config.src;
         img.style.width = config.width * scale + 'px';
         img.style.height = config.height * scale + 'px';
