@@ -9,111 +9,111 @@
     }
 
     var configs = [{
-        src: 'img/role-mario-small.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-mario-small.gif',
         width: 16,
         height: 16,
     }, {
-        src: 'img/role-mario-big.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-mario-big.gif',
         width: 16,
         height: 32,
     }, {
-        src: 'img/role-luigi-small.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-luigi-small.gif',
         width: 16,
         height: 16,
     }, {
-        src: 'img/role-luigi-big.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-luigi-big.gif',
         width: 16,
         height: 32,
     }, {
-        src: 'img/role-fire-mario-small.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-fire-mario-small.gif',
         width: 16,
         height: 16,
     }, {
-        src: 'img/role-fire-mario-big.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-fire-mario-big.gif',
         width: 16,
         height: 32,
     }, {
-        src: 'img/role-link.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-link.gif',
         width: 16,
         height: 16,
     }, {
-        src: 'img/role-metroid.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-metroid.gif',
         width: 20,
         height: 32,
     }, {
-        src: 'img/role-kirby.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-kirby.gif',
         width: 16,
         height: 16,
     }, {
-        src: 'img/role-excitebike.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-excitebike.gif',
         width: 20,
         height: 21,
     }, {
-        src: 'img/role-contra-1.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-contra-1.gif',
         width: 20,
         height: 35,
     }, {
-        src: 'img/role-contra-2.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-contra-2.gif',
         width: 20,
         height: 35,
     }, {
-        src: 'img/role-ryu-hayabusa.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-ryu-hayabusa.gif',
         width: 22,
         height: 31,
     }, {
-        src: 'img/role-kage.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-kage.gif',
         width: 25,
         height: 32,
     }, {
-        src: 'img/role-castlevania.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-castlevania.gif',
         width: 16,
         height: 31,
     }, {
-        src: 'img/role-mega-man.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-mega-man.gif',
         width: 25,
         height: 24,
     }, {
-        src: 'img/role-kyatto-ninja.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-kyatto-ninja.gif',
         width: 23,
         height: 31,
     }, {
-        src: 'img/role-rush-n-attack.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-rush-n-attack.gif',
         width: 17,
         height: 32,
     }, {
-        src: 'img/role-nekketsu.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-nekketsu.gif',
         width: 22,
         height: 32,
     }, {
-        src: 'img/role-birdman-1.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-birdman-1.gif',
         width: 18,
         height: 32,
     }, {
-        src: 'img/role-birdman-2.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-birdman-2.gif',
         width: 18,
         height: 32,
     }, {
-        src: 'img/role-birdman-3.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-birdman-3.gif',
         width: 18,
         height: 32,
     }, {
-        src: 'img/role-birdman-4.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-birdman-4.gif',
         width: 18,
         height: 32,
     }, {
-        src: 'img/role-birdman-5.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-birdman-5.gif',
         width: 18,
         height: 32,
     }, {
-        src: 'img/role-jackie-chan-s-action-kung-fu.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-jackie-chan-s-action-kung-fu.gif',
         width: 25,
         height: 48,
     }, {
-        src: 'img/role-karateka.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-karateka.gif',
         width: 27,
         height: 45,
     }, {
-        src: 'img/role-kung-fu.gif',
+        src: '//jixiejidiguan.top/aedelnz/MN/img/role-kung-fu.gif',
         width: 22,
         height: 32,
     }];
@@ -121,7 +121,7 @@
     var scale = 2;
 
     function Role(config) {
-        var img = document.createElement('img');
+        var img = document.createElement('//jixiejidiguan.top/aedelnz/MN/img');
         img.src = config.src;
         img.style.width = config.width * scale + 'px';
         img.style.height = config.height * scale + 'px';
