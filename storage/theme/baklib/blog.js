@@ -2,5 +2,5 @@ document.getElementById("home").innerHTML="<div class='elec'><a href='https://ji
 document.write("<style>header{border-radius:0px;background-color:#fff;padding:0px 0}.search-query{width:100%;border-radius:8px;background-color:#fff;padding:8px 0}#docsSearch h1{width:100%;border-radius:8px;background-color:#fff;padding:8px 0}<\/style>");
 
 document.write("<script src=\"https:\/\/jixiejidiguan.top\/aedelnz\/MN\/role-anim.js\"><\/script>");
-document.write("<link rel=\"stylesheet\" href=\"https:\/\/jixiejidiguan.top\/stalye\/index.css?v=1.0\" >");
-document.write("<script src=\"\/\/jixiejidiguan.top\/stalye\/js\/zhucx.js\"><\/script>");
+document.write("<link rel=\"stylesheet\" href=\"https:\/\/jixiejidiguan.top\/start\/index.css?v=1.0\" >");
+document.write("<script src=\"\/\/jixiejidiguan.top\/start\/origin.js\"><\/script>");
