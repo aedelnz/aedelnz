@@ -10,4 +10,3 @@ https://afdian.net/?JIXIEJIDIGUAN?tab=home
 ![](https://count.getloli.com/get/@aedelnz?theme=gelbooru)
 
 
-[![那笙/Termux](https://gitee.com/aedelnz/Termux/widgets/widget_card.svg?colors=0b73db,ffffff,ffffff,909496,171617,f09c16)](https://gitee.com/aedelnz/Termux)
