@@ -8,3 +8,6 @@ https://afdian.net/?JIXIEJIDIGUAN?tab=home
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aedelnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://count.getloli.com/get/@aedelnz?theme=gelbooru)
+
+
+[![那笙/Termux](https://gitee.com/aedelnz/Termux/widgets/widget_card.svg?colors=0b73db,ffffff,ffffff,909496,171617,f09c16)](https://gitee.com/aedelnz/Termux)
