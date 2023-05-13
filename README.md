@@ -4,7 +4,7 @@
 ### Please have a cup of milk tea
 https://afdian.net/a/JIXIEJIDIGUAN
 
-![](https://raw.githubusercontent.com/aedelnz/aedelnz/main/afdian-Na%20Sheng.jpg)
+![](./afdian-Na%20Sheng.jpg)
 ### 总体状况
 ![](https://komarev.com/ghpvc/?username=aedelnz)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aedelnz&show_icons=true&icon_color=990000&title_color=990000)
