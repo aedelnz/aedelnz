@@ -5,9 +5,9 @@
 https://afdian.net/a/JIXIEJIDIGUAN
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="./github-contribution-grid-snake-dark.svg" />
   </picture>
 
 ### 总体状况
