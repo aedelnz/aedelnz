@@ -1,9 +1,6 @@
 ---
 ![](https://count.getloli.com/get/@aedelnz?theme=gelbooru)
 
-### Please have a cup of milk tea
-https://afdian.net/a/JIXIEJIDIGUAN
-
 <div>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
