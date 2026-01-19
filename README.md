@@ -10,7 +10,8 @@
 
 </h2>
 
-
+# 主页
+前往 [点击这里](https://jixiejidiguan.top/)
 
 
 
