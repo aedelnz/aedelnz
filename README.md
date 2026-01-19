@@ -1,20 +1,16 @@
----
-![](https://count.getloli.com/get/@aedelnz?theme=gelbooru)
+### Moe Counter!
 
-<div>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="./github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
+![Anurag's Moe Counter!](https://count.getloli.com/@aedelnz?theme=miku&darkmode=auto)
 
-### 总体状况
-![](https://komarev.com/ghpvc/?username=aedelnz)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aedelnz&show_icons=true&icon_color=990000&title_color=990000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aedelnz&layout=compact)
+<h2>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=aedelnz&theme=dracula)
+| GitHub Stats | Top Langs |
+| --- | --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aedelnz&show_icons=true&theme=radical&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aedelnz&layout=compact&hide_title=true) |
+
+</h2>
+
+
 
 
 
